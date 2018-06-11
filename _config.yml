@@ -2,8 +2,8 @@
 # Site
 
 title: Aperture Template
-url: "https://blog.seonology.com/food"
-baseurl: https://blog.seonology.com/food
+url: https://blog.seonology.com/food
+baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
