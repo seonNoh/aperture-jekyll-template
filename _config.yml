@@ -6,17 +6,12 @@ url: https://blog.seonology.com
 baseurl:
 google_analytics_key:
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: Photography site for seonology.
 author:
-  name:
-  email:
+  name: SEON
+  email: dark.pearl.nst@gmail.com
   twitter: # twitter username without the @ symbol
-social:
-  name: Aperture Template
-  links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
 
 # -----
 # Build
